@@ -24,7 +24,5 @@ public class StoreService {
    public List<Item> getItems () {
         return basket.getItems();}
 
-
-
     }
 
